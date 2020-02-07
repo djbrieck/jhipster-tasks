@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.djbrieck.tasks"
+    },
+    "jhipsterVersion": "6.7.0",
+    "applicationType": "monolith",
+    "baseName": "tasks",
+    "packageName": "com.djbrieck.tasks",
+    "packageFolder": "com/djbrieck/tasks",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDI1YzVkZjFhMTIyNmQwYzVmNzA5ZGE2Mjk0Yjg4ZmZmZDg1YWQ3MDk4OWEyYjUxZWNjNGJlM2NmMjg4NWU1YmMzMTAxY2U1NzExNTk3YjdiMTE0OWVjZTUzODk2NjhjMDA1NTkxMTM1ODJlMTYyY2I4ZWEzM2I0ZjIxN2MxNTU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1581101617221,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
