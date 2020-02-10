@@ -75,6 +75,7 @@ out/
 ######################
 /log/
 /target/
+.mvn/jvm.config
 
 ######################
 # Gradle
